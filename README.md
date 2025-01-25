@@ -1,7 +1,7 @@
 # Macrofirm
 This is a parody keygen to activate your office suite. No more annual subscription fees, one key for a lifetime install. 
 
-Link to a video demonstration. 
+[Link to a video demonstration. ](https://github.com/abidm-bit/Macrofirm/wiki/Macrofirm-GUI-Project)
 
 JavaFX  (desktop app for Windows & Mac) 
   - includes icons for a Windows.exe and a MacOS.app 
