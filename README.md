@@ -23,4 +23,6 @@ I stored 1,000,000 keys to keep the db size to 81 megabytes.
 
 
 I haven't figured out how to package this correctly with JLink and JPackage lol. 
-I intend to package this with Jlink to minimize the file size and to ensure the app runs quickly.
+I intend on packaging this with Jlink to minimize the file size and to ensure the app runs quickly.
+
+As for the missing unit test -- I blame JavaFX's documentation lol. 
