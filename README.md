@@ -21,11 +21,4 @@ Python faker
 I stored 1,000,000 keys to keep the db size to 81 megabytes. 
 
 
-
-I haven't figured out how to package this correctly with JLink and JPackage lol. 
-I intend on packaging this with Jlink to minimize the file size and to ensure the app runs quickly.
-
- 1/25 : I built this with JRE/JDK 23. I think I should use JRE/JDK 17 in Jlink. Also I have to review the pom.xml 
-
-
 As for the missing unit test(s) -- I blame JavaFX's missing documentation lol. 
